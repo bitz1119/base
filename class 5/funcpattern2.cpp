@@ -1,22 +1,18 @@
 #include <iostream>
 using namespace std;
-
 /*
 
-*
-**
-***
-****
-*****
+1
+22
+333
+4444
+55555
 
 */
-
-
-
-void printstar(int noofstars){
-	for(int ps = 1;ps<=noofstars;ps++)
+void printstar(int noofdig){
+	for(int ps = 1;ps<=noofdig;ps++)
 	{
-		cout<<"*";
+		cout<<noofdig;
 	}
 }
 
