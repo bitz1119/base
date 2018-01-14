@@ -28,6 +28,6 @@ int main()
 	}
 	else
 	{
-		cout<<"oooooooooops not found";
+		cout<<"oooooooooops! not found";
 	}
 }
